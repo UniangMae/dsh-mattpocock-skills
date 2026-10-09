@@ -39,7 +39,7 @@
 ### 安装
 
 ```sh
-dsh plugin --profile <name> add github:GongYuanCaiJi/dsh-mattpocock-skills
+dsh plugin --profile <name> add github:UniangMae/dsh-mattpocock-skills
 ```
 
 本插件无 build script、零运行时依赖，git 安装不会触发 pnpm 的 build-script 白名单，
@@ -48,7 +48,7 @@ dsh plugin --profile <name> add github:GongYuanCaiJi/dsh-mattpocock-skills
 本地路径安装（同样零依赖，无需先 `npm install`）：
 
 ```sh
-git clone https://github.com/GongYuanCaiJi/dsh-mattpocock-skills.git
+git clone https://github.com/UniangMae/dsh-mattpocock-skills.git
 dsh plugin --profile <name> add ./dsh-mattpocock-skills
 ```
 
@@ -105,7 +105,7 @@ exactly as upstream. Users can also invoke a skill explicitly by starting a mess
 ### Install
 
 ```sh
-dsh plugin --profile <name> add github:GongYuanCaiJi/dsh-mattpocock-skills
+dsh plugin --profile <name> add github:UniangMae/dsh-mattpocock-skills
 ```
 
 This package has no build scripts and zero runtime dependencies, so a git install
@@ -114,7 +114,7 @@ does not trip pnpm's build-script allowlist — no `allowBuilds` configuration n
 Local-path install (also zero dependencies — no `npm install` needed first):
 
 ```sh
-git clone https://github.com/GongYuanCaiJi/dsh-mattpocock-skills.git
+git clone https://github.com/UniangMae/dsh-mattpocock-skills.git
 dsh plugin --profile <name> add ./dsh-mattpocock-skills
 ```
 
