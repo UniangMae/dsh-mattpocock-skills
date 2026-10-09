@@ -4,6 +4,8 @@
 
 **Matt Pocock 工程技能包，原样移植为 DeepSeek Harness 插件——25 个即插即用的工程技能（grilling、spec/ticket 流程、TDD、code review、domain modeling 等），不是 vibe coding。**
 
+**2026/10/09，汉化了调用栏skill工具描述**
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![dsh](https://img.shields.io/badge/dsh-0.1.0--rc.6-8A2BE2)](https://github.com/deepseek-ai/deepseek-harness)
 [![upstream](https://img.shields.io/badge/upstream-mattpocock%2Fskills%20v1.2.3-181717)](https://github.com/mattpocock/skills)
